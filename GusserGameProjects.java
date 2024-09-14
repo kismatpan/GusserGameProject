@@ -76,7 +76,7 @@ class Players
 			   System.out.println("Player 1 and Player 3 Won  the game");
 		   }
 		   else
-           {
+                   {
 			System.out.println("Player 1 won the game ");
 		   }
 		}
